@@ -1,6 +1,7 @@
 '''
     This program is used to find the LCS (Longest common words). 
-    The algorithm used is a naive n x m implementation
+    This is a Bottom up Dynamic Programming approach
+    Complexity = O (nxm)
     for n = len(S), m = len(T)
 
     @author: veng.thai@gmail.com
